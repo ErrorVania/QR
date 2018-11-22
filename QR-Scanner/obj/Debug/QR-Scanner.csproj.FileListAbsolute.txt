@@ -1,0 +1,12 @@
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\QR-Scanner.exe.config
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\QR-Scanner.exe
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\QR-Scanner.pdb
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\BarcodeLib.BarcodeReader.dll
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\obj\Debug\QR-Scanner.csprojAssemblyReference.cache
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\obj\Debug\QR-Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\obj\Debug\QR-Scanner.csproj.CopyComplete
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\obj\Debug\QR-Scanner.exe
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\obj\Debug\QR-Scanner.pdb
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\QRCoder.dll
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\System.Drawing.Common.dll
+C:\Users\Joshua\source\repos\QR-Scanner\QR-Scanner\bin\Debug\UnityEngine.dll
